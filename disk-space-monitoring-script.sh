@@ -16,7 +16,7 @@ CAT=/bin/cat
 MAILFILE=/tmp/mailviews$$
 MAILER=/bin/mail
 ## Change ADMIN Mail address as per the requirement ##
-mailto=saddam.zemmali@gmail.com
+mailto=mail@test.com
 for path in $PATHS
 do
 ## Validate the Percentage of Disk space ##
